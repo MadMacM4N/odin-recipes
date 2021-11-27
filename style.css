@@ -1,0 +1,12 @@
+/* style.css */
+
+h1  {
+    text-align: center;
+    text-weight: bold;
+    background-color: #6CB26C;
+}
+
+div {
+    font-famiy: Ubuntu, Serif, Arial;
+    font-size: 24px;
+}
