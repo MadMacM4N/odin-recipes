@@ -1,15 +1,19 @@
-
 /* style.css */
 
 h1  {
     text-align: center;
-    text-weight: bold;
+    font-size: 48px;
+    font-weight: bold;
     background-color: #6CB26C;
 }
 
-div {
-    font-famiy: Ubuntu, Serif, Arial;
-    font-size: 24px;
+*  {
+  box-sizing: border-box;
+}
+.image1,
+.image2 {
+	height: auto;
+  width: 300px;
 }
 
 .column {
@@ -18,26 +22,14 @@ div {
   padding: 5px;
 }
 
-
 .row::after {
   content: "";
   clear: both;
   display: table;
 } 
 
-
-.image1  {
-	 height: auto;
-         width: 300px;
-}
-
-.image2  {
-	 height: auto;
-	 width: 300px;
-}
-
-.image3  {
-	 height: auto;
-	 width: 300px;
+.links {
+  text-align: left;
+  font-size: 36px;
 }
 
