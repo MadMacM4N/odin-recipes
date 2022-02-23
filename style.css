@@ -1,11 +1,14 @@
 /* style.css */
 
 h1  {
-    text-align: center;
+    display: flex;
+    height: 120px;
     width: 100%;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
     font-size: 48px;
     font-weight: bold;
-    background-color: #6CB26C;
 }
 
 .pics {
