@@ -54,7 +54,16 @@ h1  {
     font-size: 28px;
   }
 
-  .description {
-    display: block;
-    width: 100%;
-  }
+.description {
+  display: inline;
+  width: 600px;
+}
+
+.page-content {
+  display: flex;
+  margin-left: 20px;
+}
+
+.process {
+   display: block;
+}
