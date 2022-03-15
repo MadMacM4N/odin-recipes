@@ -67,8 +67,8 @@ h2 {
 
 .description {
   display: inline-block;
-  width: auto;
-  margin-top: 32px;
+  width: 50%;
+  margin-left: 42px;
 }
 
 .page-content {
