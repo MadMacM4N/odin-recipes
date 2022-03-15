@@ -20,6 +20,17 @@ h1  {
     font-weight: bold;
 }
 
+h2 {
+  display: flex;
+  height: 120px;
+  width: 37.5%;
+  justify-content: center;
+  align-items: center;
+  color: antiquewhite;
+  font-size: 32px;
+  font-weight: bold;
+}
+
 .pics {
   display: flex;
   justify-content: space-evenly;
@@ -60,7 +71,7 @@ h1  {
 }
 
 .page-content {
-  display: flex;
+  display: inline;
   margin-left: 20px;
 }
 
